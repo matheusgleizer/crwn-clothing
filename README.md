@@ -5,5 +5,4 @@ Online store. All the code is written in Reactjs, HTML and Sass. For the server 
 This project is still under development.
 
 Try it out:
-
 https://matheusgleizer.github.io/e-shop
