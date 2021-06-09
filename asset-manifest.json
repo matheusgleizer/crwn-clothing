@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/e-shop/static/css/main.8f7c63a0.chunk.css",
-    "main.js": "/e-shop/static/js/main.4fcfa523.chunk.js",
-    "main.js.map": "/e-shop/static/js/main.4fcfa523.chunk.js.map",
+    "main.css": "/e-shop/static/css/main.56ea4aa3.chunk.css",
+    "main.js": "/e-shop/static/js/main.406aee27.chunk.js",
+    "main.js.map": "/e-shop/static/js/main.406aee27.chunk.js.map",
     "runtime-main.js": "/e-shop/static/js/runtime-main.1772a88d.js",
     "runtime-main.js.map": "/e-shop/static/js/runtime-main.1772a88d.js.map",
     "static/js/2.14c42866.chunk.js": "/e-shop/static/js/2.14c42866.chunk.js",
     "static/js/2.14c42866.chunk.js.map": "/e-shop/static/js/2.14c42866.chunk.js.map",
     "index.html": "/e-shop/index.html",
-    "static/css/main.8f7c63a0.chunk.css.map": "/e-shop/static/css/main.8f7c63a0.chunk.css.map",
+    "static/css/main.56ea4aa3.chunk.css.map": "/e-shop/static/css/main.56ea4aa3.chunk.css.map",
     "static/js/2.14c42866.chunk.js.LICENSE.txt": "/e-shop/static/js/2.14c42866.chunk.js.LICENSE.txt",
     "static/media/crown.3a4e2b15.svg": "/e-shop/static/media/crown.3a4e2b15.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1772a88d.js",
     "static/js/2.14c42866.chunk.js",
-    "static/css/main.8f7c63a0.chunk.css",
-    "static/js/main.4fcfa523.chunk.js"
+    "static/css/main.56ea4aa3.chunk.css",
+    "static/js/main.406aee27.chunk.js"
   ]
 }
